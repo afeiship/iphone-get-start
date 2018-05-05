@@ -1,2 +1,2 @@
-# iphone-skills.
-> iphone skills
+# iphone-get-start
+> When u meet an iphone.
